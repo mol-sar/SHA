@@ -1,5 +1,7 @@
 # SHA
-Sarawak Heritage Online Auction Database System ( Database Group Project using php/html)
+Sarawak Heritage Online Auction Database System ( Database Group Project using php)
+
+Using XAMPP & MariaDB, I hosted a localhost to run this system; Images below are the project results screenshots.
 
 Main Menu
 <img width="1264" height="623" alt="image" src="https://github.com/user-attachments/assets/c5a5c40c-5531-45ac-9635-847225a3e483" />
